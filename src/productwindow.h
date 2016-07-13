@@ -2,7 +2,7 @@
 #define PRODUCTWINDOW_H
 
 #include <QMainWindow>
-#include <productstablemodel.h>
+#include <src/productstablemodel.h>
 #include <QSortFilterProxyModel>
 
 namespace Ui {
